@@ -24,7 +24,7 @@ source ./venv/bin/activate  # sh, bash, ksh, or zsh
 pip install --upgrade pip
 ```
 
-### Clone Deep Batch Scheduler
+### Clone SchedInspector
 ```bash
 git clone https://github.com/DIR-LAB/SchedInspector.git
 ```
