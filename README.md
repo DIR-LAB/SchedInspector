@@ -8,12 +8,12 @@ The relevant research paper has been published at HPDC22. If you reference or us
 
 ```
 @inproceedings{zhang2022schedinspector,
-author = {Zhang, Di and Dai, Dong and Xie, Bing},
-title = {SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning},
-year = {2022},
-publisher = {Association for Computing Machinery},
-booktitle = {Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing},
-pages = {97–109}
+	author = {Zhang, Di and Dai, Dong and Xie, Bing},
+	title = {SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning},
+	year = {2022},
+	publisher = {Association for Computing Machinery},
+	booktitle = {Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing},
+	pages = {97–109}
 }
 ```
 ## Installation
